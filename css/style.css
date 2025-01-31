@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #af4c6a;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -44,7 +44,7 @@ label, input, button {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color:  #af4c6a;
     color: white;
     border: none;
     padding: 0.5em;
@@ -52,11 +52,11 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color:  #af4c6a;
 }
 
 #resultado {
     text-align: center;
-    margin-top: 1;
+    margin-top: 1em;
     font-weight: bold;
 }
